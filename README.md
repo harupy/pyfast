@@ -19,7 +19,7 @@ And run the following comands:
 ```console
 pip install pipenv
 pipenv install
-python log_internet_speed.py --out_file output.csv
+pipenv run python log_internet_speed.py --out_file output.csv
 ```
 
 The output looks like:
