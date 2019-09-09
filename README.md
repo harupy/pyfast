@@ -14,6 +14,8 @@ Download a chromedriver in the link below and put it in the project directory.
 
 https://chromedriver.chromium.org/
 
+And run the following comands:
+
 ```console
 pip install pipenv
 pipenv install
