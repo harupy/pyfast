@@ -19,3 +19,14 @@ pip install pipenv
 pipenv install
 python log_internet_speed.py --out_file output.csv
 ```
+
+The output looks like:
+
+```csv
+datetime,speed,unit
+2019/09/09 14:30:51,54,Mbps
+2019/09/09 14:31:22,31,Mbps
+2019/09/09 14:31:52,46,Mbps
+2019/09/09 14:32:23,49,Mbps
+2019/09/09 14:32:53,39,Mbps
+```
